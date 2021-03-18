@@ -1,0 +1,13 @@
+C:\Users\leand\Documents\Bootcamp Localiza\Aplicação\DIO\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.exe
+C:\Users\leand\Documents\Bootcamp Localiza\Aplicação\DIO\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+C:\Users\leand\Documents\Bootcamp Localiza\Aplicação\DIO\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+C:\Users\leand\Documents\Bootcamp Localiza\Aplicação\DIO\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+C:\Users\leand\Documents\Bootcamp Localiza\Aplicação\DIO\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\leand\Documents\Bootcamp Localiza\Aplicação\DIO\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\leand\Documents\Bootcamp Localiza\Aplicação\DIO\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csprojAssemblyReference.cache
+C:\Users\leand\Documents\Bootcamp Localiza\Aplicação\DIO\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\leand\Documents\Bootcamp Localiza\Aplicação\DIO\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+C:\Users\leand\Documents\Bootcamp Localiza\Aplicação\DIO\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\leand\Documents\Bootcamp Localiza\Aplicação\DIO\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\leand\Documents\Bootcamp Localiza\Aplicação\DIO\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\leand\Documents\Bootcamp Localiza\Aplicação\DIO\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
